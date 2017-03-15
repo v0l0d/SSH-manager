@@ -1,5 +1,11 @@
 # SSH-manager
 
+You'll find it useful if:
+* you have to deal with number of hosts with different user names, IPs (for sure ;) ), SSH ports
+* you do copy from/to remote hosts often
+* run mysql console on remote hosts with firewalled mysql
+
+
 ## Usage
 
 ### Setup
