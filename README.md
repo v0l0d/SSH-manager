@@ -4,7 +4,9 @@
 
 ### Setup
 To setup host run:
+```
 bin/_ssh_setup.sh host_alias
+```
 
 you'll get a set of SH files in the same folder:
 * env.host_alias.sh
