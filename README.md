@@ -24,3 +24,6 @@ scp_from.host_alias.sh -r /tmp/sample_dir .
 
 SCP to host-alias file some_file.txt to remote /tmp/ dir:
 scp_to.host_alias.sh some_file.txt /tmp/
+
+P.S.
+Also it has script to access remote MySQL DB easily, though I need to test and finish it
