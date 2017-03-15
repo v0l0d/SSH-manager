@@ -18,13 +18,19 @@ With these scripts you can easily SSH, SCP to or SCP from alias host
 
 ### Example
 SSH to host_alias:
+```
 ssh.host_alias.sh
+```
 
 SCP from host_alias dir '/tmp/sample_dir' to the current local dir:
+```
 scp_from.host_alias.sh -r /tmp/sample_dir .
+```
 
 SCP to host-alias file some_file.txt to remote /tmp/ dir:
+```
 scp_to.host_alias.sh some_file.txt /tmp/
+```
 
 ### Other commands
 P.S.
