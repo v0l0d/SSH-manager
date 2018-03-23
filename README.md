@@ -15,6 +15,7 @@ git clone https://github.com/v0l0d/SSH-manager
 cd SSH-manager/bin
 _ssh_setup.sh host_alias
 ```
+host_alias - any name for you to remember the host
 
 you'll get a set of SH files in the same folder:
 * env.host_alias.sh
