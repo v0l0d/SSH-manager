@@ -11,7 +11,8 @@ You'll find it useful if:
 ### Setup
 To setup host run:
 ```
-cd bin
+git clone https://github.com/v0l0d/SSH-manager
+cd SSH-manager/bin
 _ssh_setup.sh host_alias
 ```
 
